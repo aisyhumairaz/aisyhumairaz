@@ -43,7 +43,7 @@ Calm wellness and money companion for an Islamic banking app, with an AI chat in
 <td width="50%" valign="top">
 <a href="https://github.com/aisyhumairaz/lari-geng-lari-qa-case-study"><img src="https://raw.githubusercontent.com/aisyhumairaz/lari-geng-lari-qa-case-study/main/docs/cover.png" alt="Lari, Geng, Lari! QA"></a><br>
 <b><a href="https://github.com/aisyhumairaz/lari-geng-lari-qa-case-study">Lari, Geng, Lari! — QA</a></b> · Team game project<br>
-UAT plan (27 test cases, 14 modules) and defect log for a bilingual mobile runner game.<br>
+UAT on tablet, iPhone and web: 27/27 test cases passed across 14 modules, with a 9-defect regression log.<br>
 <sub>UAT · Defect tracking · Regression · Cocos Creator · Android</sub>
 </td>
 <td width="50%" valign="top"></td>
